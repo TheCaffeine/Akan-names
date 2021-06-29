@@ -12,7 +12,7 @@ This project is a web application that takes a user's birthday and calculates th
 <img src="https://github.com/TheCaffeine/Akan-names/blob/bcf2e383dbb3639ade8e93328f30c1ee7582f47f/css/images/Akan%20Screenshot.png width="800px" height="400px">
 
 ## Live Page 
-https://thecaffeine.github.io/Akan-names/
+file:///Users/liamabenger/Documents/GitHub/Akan-names/index.html
 
 
 ## Technologies Used
