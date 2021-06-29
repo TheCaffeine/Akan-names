@@ -2,13 +2,13 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("images/lady.jpg");
+    background-image: url("images/bg.jpg");
 
    }
    h1 {
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
      font-weight: bolder;
-     text-align: center;
+     text-align center;
      color: azure;
      margin-bottom: 0px;
      margin-top: 10px;
